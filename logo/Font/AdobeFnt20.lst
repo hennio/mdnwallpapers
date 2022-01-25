@@ -1,0 +1,70 @@
+%!Adobe-FontList 1.20
+%Locale:0x413
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\__MACOSX\Ailerons\._.DS_Store
+FileModTime:1542923362
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\__MACOSX\Ailerons\._Ailerons.jpg
+FileModTime:1540331738
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\__MACOSX\Ailerons\._Ailerons.txt
+FileModTime:1540378832
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\Ailerons\.DS_Store
+FileModTime:1542923362
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Ailerons-Regular
+FamilyName:Ailerons
+StyleName:Regular
+FullName:Ailerons
+MenuName:Ailerons
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\Ailerons\Ailerons-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:10284
+FileModTime:1542923476
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Ailerons
+NameArray:0,Win,1,Ailerons
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\Ailerons\Ailerons.jpg
+FileModTime:1540331738
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:S:\2. Projecten\werk\pol\logo_def\Font\Ailerons\Ailerons.txt
+FileModTime:1540378832
+%EndFont
+
